@@ -32,14 +32,22 @@ namespace PointLib
             // Stretches the point by increasing the distance between the point and zero
             // by the factor scale.  For example, applying stretch(3) to the point (2,3)
             // should yield (6,9).  Only non-negative scale values should be allowed.
-            public void stretch(double scale)
+            public void Stretch(double scale)
             {
-
+                if (scale > 0)
+                {
+                    x = x * scale;
+                    y = y * scale;
+                }
+                else
+                {
+                    
+                }
             }
 
             // calculates the stright-line distance between two points.  The value should
             // always be non-negative.
-            public double distance(Point other)
+            public double Distance(Point other)
             {
                 return 0;
             }
