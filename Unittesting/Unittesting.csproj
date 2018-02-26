@@ -44,5 +44,11 @@
     <Compile Include="Point.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Testing\Testing.csproj">
+      <Project>{240a1abf-09d2-4de0-8333-00faecc9b09c}</Project>
+      <Name>Testing</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

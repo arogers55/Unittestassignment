@@ -1,0 +1,6 @@
+E:\School\System Design\Unittesting\TestClasses\bin\Debug\TestClasses.dll
+E:\School\System Design\Unittesting\TestClasses\bin\Debug\TestClasses.pdb
+E:\School\System Design\Unittesting\TestClasses\obj\Debug\TestClasses.csprojResolveAssemblyReference.cache
+E:\School\System Design\Unittesting\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+E:\School\System Design\Unittesting\TestClasses\obj\Debug\TestClasses.dll
+E:\School\System Design\Unittesting\TestClasses\obj\Debug\TestClasses.pdb

@@ -1,0 +1,16 @@
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\UnitTestProject2.deps.json
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\UnitTestProject2.runtimeconfig.json
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\UnitTestProject2.runtimeconfig.dev.json
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\UnitTestProject2.dll
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\UnitTestProject2.pdb
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\TestClasses.dll
+E:\School\System Design\Unittesting\UnitTestProject2\bin\Debug\netcoreapp2.0\TestClasses.pdb
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.csprojResolveAssemblyReference.cache
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.csproj.CoreCompileInputs.cache
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.AssemblyInfoInputs.cache
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.AssemblyInfo.cs
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.dll
+E:\School\System Design\Unittesting\UnitTestProject2\obj\Debug\netcoreapp2.0\UnitTestProject2.pdb
