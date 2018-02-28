@@ -58,6 +58,13 @@ namespace XUnitTestProject1
             Assert.False(Acct2.Deposit(-50));
         }
 
+        [Fact]
+        public void GetBalanceTest()
+        {
+            BankAccount Acct3 = new BankAccount(100);
+            Assert.Equal(Acct3.Balance, 100);
+        }
+
         // Point Tests
 
         [Fact]
@@ -83,6 +90,56 @@ namespace XUnitTestProject1
 
             Assert.Equal(p2.getX(), 8);
             Assert.Equal(p2.getY(), 20);
+        }
+
+        [Fact]
+        public void ToStringTest()
+        {
+            Point p2 = new Point(2, 5);
+            string output = p2.ToString();
+            Assert.Contains("(2,5)", output);
+        }
+
+        [Fact]
+        public void DistanceTest()
+        {
+            Point p1 = new Point(10, 20);
+            Assert.Equal(p1.Distance(), 0);
+
+        }
+
+        [Fact]
+        public void RotateTest()
+        {
+            Point p5 = new Point(1, 0);
+            p5.Rotate(90);
+
+            Assert.Equal(p5.getX(), 6.123233995736766E-17);
+            Assert.Equal(p5.getY(), 1);
+
+
+        }
+        [Fact]
+        public void TestGreater()
+        {
+            Point p5 = new Point(1, 0);
+            Point p6 = new Point(0, 1);
+
+
+            Assert.Equal(p5 > p6, true);
+
+
+        }
+        [Fact]
+        public void TestLesser()
+        {
+            Point p5 = new Point(1, 0);
+            Point p6 = new Point(0, 1);
+
+
+            Assert.Equal(p6 < p5, true);
+
+
         }
     }
 }
