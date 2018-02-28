@@ -41,7 +41,7 @@ namespace PointLib
                 }
                 else
                 {
-                    
+                    throw new ArgumentOutOfRangeException();
                 }
             }
 
@@ -49,7 +49,7 @@ namespace PointLib
             // always be non-negative.
             public double Distance(Point other)
             {
-                return 0;
+                   return 0;
             }
 
             // Rotates the point counter-clockwise by deg degrees.  For example, applying
